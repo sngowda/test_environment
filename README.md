@@ -10,3 +10,4 @@ echo "You are in master branch now you got hot fix to finish it"
 echo "I am here to fix the issue, give me some time"
 echo "I got the issue and fixed. enjoy the day"
 master
+echo "I am the master of the branch. I am checking different merge things"
