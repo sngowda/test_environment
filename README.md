@@ -11,3 +11,5 @@ echo "I am here to fix the issue, give me some time"
 echo "I got the issue and fixed. enjoy the day"
 master
 echo "I am the master of the branch. I am checking different merge things"
+
+echo "It is to check another merge concept... i like it"
